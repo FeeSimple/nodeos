@@ -1,5 +1,7 @@
 # Client nodeos connects to testnet
 
+sudo apt install libsoci-dev
+
 ## Testnet
 
 The running testnet (on server `138.197.194.220`) includes 4 block producers
